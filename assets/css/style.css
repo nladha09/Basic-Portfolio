@@ -33,10 +33,19 @@ h1 {
   padding-top: 20px;
 }
 
-#about_short {
-  float: top;
+#about_me {
+  padding: 0 20px 20px 0;
+  margin-top: 20px; 
+  display: inline;
+  float: right;
 }
 
+.picture{
+  /* padding: 0 20px 20px 0;
+  margin-top: 20px;  */
+  display: inline;
+  float: right;
+}
   /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
